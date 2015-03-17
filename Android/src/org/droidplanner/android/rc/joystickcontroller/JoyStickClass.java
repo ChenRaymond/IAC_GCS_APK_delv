@@ -38,7 +38,7 @@ public class JoyStickClass {
 	private Bitmap stick;
 	
 	private boolean touch_state = false;
-	
+	//123123132
 	public JoyStickClass (Context context, ViewGroup layout, int stick_res_id) {
 		mContext = context;
 
