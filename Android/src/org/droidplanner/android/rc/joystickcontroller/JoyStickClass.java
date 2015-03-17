@@ -9,7 +9,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewGroup.LayoutParams;
-// test joystick checkin
+
 public class JoyStickClass {
 	public static final int STICK_NONE = 0;
 	public static final int STICK_UP = 1;
